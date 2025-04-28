@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers 2.0
 
 - Class Date: April 28-29. 2025[D[D[D[D[D[D[D[D[D - 29, 2025
 - Facilitator: @Joao Meira
